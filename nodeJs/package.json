@@ -1,0 +1,35 @@
+{
+  "name": "nodeJs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/animations": "^8.2.7",
+    "@angular/cdk": "^8.2.0",
+    "@angular/material": "^8.2.0",
+    "@types/file-saver": "^2.0.1",
+    "angular2-csv": "^0.2.9",
+    "angular7-csv": "^0.2.12",
+    "async": "^3.1.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "csv-stringify": "^5.3.3",
+    "express": "^4.17.1",
+    "fast-csv": "^3.4.0",
+    "file-saver": "^2.0.2",
+    "json2csv": "^4.5.4",
+    "moment": "^2.24.0",
+    "momentjs": "^2.0.0",
+    "mongodb": "^3.3.2",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.1",
+    "request": "^2.88.0",
+    "underscore": "^1.9.1"
+  }
+}
