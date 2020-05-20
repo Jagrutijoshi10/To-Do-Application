@@ -1,0 +1,3 @@
+[submodule "todoAngular"]
+	path = todoAngular
+	url = https://github.com/Jagrutijoshi10/To-Do-Application.git
